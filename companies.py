@@ -1,5 +1,5 @@
-#starting point:  https://github.com/mkmoisen/company_names/blob/master/companynames/companynames.txt
-{'3M Company': ['3m.com', '1601 S Shamrock Ave,, Monrovia, CA,, 91016'],
+companies = {
+'3M Company': ['3m.com', '1601 S Shamrock Ave,, Monrovia, CA,, 91016'],
 'Abbott Laboratories': ['abbott.com', '15900 Valley View Ct,, Sylmar, CA,, 91342'],
 'AbbVie': ['abbvie.com', '30930 Russell Ranch Rd,, Ste 300,, Westlake Village, CA,, 91362'],
 'ACE Limited': ['acelimited.ca', 'ACE Building 17 Woodbourne Avenue,, Hamilton HM08,, Bermuda'],
