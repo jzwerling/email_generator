@@ -5110,8 +5110,6 @@ first_names = [
 "Mozell",
 "Mozella",
 "Mozelle",
-"Mr.",
-"Mrs",
 "Mudiwa",
 "Mufaro",
 "Mugabe",
